@@ -6,23 +6,31 @@ import java.util.*
 fun main() {
     val scanner = Scanner(System.`in`)
 
-    println("Hello! My name is Danbot.")
+    println("Hello! My name is Aid.")
     println("I was created in 2020.")
     println("Please, remind me your name.")
 
-    // reading a name
-    var yourName: String = scanner.nextLine()
+    val name = scanner.nextLine()
 
-    println("What a great name you have, $yourName!")
+    println("What a great name you have, " + name + "!")
     println("Let me guess your age.")
     println("Enter remainders of dividing your age by 3, 5 and 7.")
 
-    // reading all remainders
-    var remainder3:Int = scanner.nextInt()
-    var remainder5:Int = scanner.nextInt()
-    var remainder7:Int = scanner.nextInt()
+    val rem3 = scanner.nextInt()
+    val rem5 = scanner.nextInt()
+    val rem7 = scanner.nextInt()
+    val age = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105
 
-    var age : Int = (remainder3 * 70 + remainder5 * 21 + remainder7 * 15) % 105
+    println("Your age is " + age + "; that's a good time to start programming!")
+    println("Now I will prove to you that I can count to any number you want.")
 
-    println("Your age is $age; that's a good time to start programming!")
+    // read a number and count to it here
+    val num = scanner.nextInt()
+    var  numNew = num - num
+    while (numNew <= num){
+        println("$numNew!")
+        numNew += 1
+    }
+
+    println("Completed, have a nice day!")
 }

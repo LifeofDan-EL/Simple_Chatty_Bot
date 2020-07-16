@@ -24,7 +24,5 @@ fun main() {
 
     var age : Int = (remainder3 * 70 + remainder5 * 21 + remainder7 * 15) % 105
 
-    var yourAge = age
-
-    println("Your age is $yourAge; that's a good time to start programming!")
+    println("Your age is $age; that's a good time to start programming!")
 }

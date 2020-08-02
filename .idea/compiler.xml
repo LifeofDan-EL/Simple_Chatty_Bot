@@ -2,6 +2,34 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Between_two_numbers_main" target="11" />
+      <module name="Problems-Between_two_numbers_test" target="11" />
+      <module name="Problems-Counting_positive_numbers_main" target="11" />
+      <module name="Problems-Counting_positive_numbers_test" target="11" />
+      <module name="Problems-Job_main" target="11" />
+      <module name="Problems-Job_test" target="11" />
+      <module name="Problems-Max_values_of_integer_types_main" target="11" />
+      <module name="Problems-Max_values_of_integer_types_test" target="11" />
+      <module name="Problems-Odd_or_even_main" target="11" />
+      <module name="Problems-Odd_or_even_test" target="11" />
+      <module name="Problems-Playing_with_time_main" target="11" />
+      <module name="Problems-Playing_with_time_test" target="11" />
+      <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />
+      <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
+      <module name="Problems-Size,_min_and_max_main" target="11" />
+      <module name="Problems-Size,_min_and_max_test" target="11" />
+      <module name="Problems-The_first_digit_of_a_two-digit_number_main" target="11" />
+      <module name="Problems-The_first_digit_of_a_two-digit_number_test" target="11" />
+      <module name="Problems-The_last_digit_of_a_number_main" target="11" />
+      <module name="Problems-The_last_digit_of_a_number_test" target="11" />
+      <module name="Problems-The_max_of_two_numbers_without_else-branch_main" target="11" />
+      <module name="Problems-The_max_of_two_numbers_without_else-branch_test" target="11" />
+      <module name="Problems-Triangle_main" target="11" />
+      <module name="Problems-Triangle_test" target="11" />
+      <module name="Problems-Within_a_range_main" target="11" />
+      <module name="Problems-Within_a_range_test" target="11" />
+      <module name="Problems-Within_both_ranges_main" target="11" />
+      <module name="Problems-Within_both_ranges_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
       <module name="Simple_Chatty_Bot-task_test" target="11" />
       <module name="util_main" target="11" />

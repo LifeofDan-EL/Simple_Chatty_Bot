@@ -2,14 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Problems-Between_two_numbers_main" target="11" />
-      <module name="Problems-Between_two_numbers_test" target="11" />
-      <module name="Problems-Counting_positive_numbers_main" target="11" />
-      <module name="Problems-Counting_positive_numbers_test" target="11" />
-      <module name="Problems-Job_main" target="11" />
-      <module name="Problems-Job_test" target="11" />
-      <module name="Problems-Max_values_of_integer_types_main" target="11" />
-      <module name="Problems-Max_values_of_integer_types_test" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_4_main" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_4_test" target="11" />
       <module name="Problems-Odd_or_even_main" target="11" />
       <module name="Problems-Odd_or_even_test" target="11" />
       <module name="Problems-Playing_with_time_main" target="11" />
@@ -34,6 +28,14 @@
       <module name="Simple_Chatty_Bot-task_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
+      <module name="Problems-Between_two_numbers_main" target="11" />
+      <module name="Problems-Between_two_numbers_test" target="11" />
+      <module name="Problems-Counting_positive_numbers_main" target="11" />
+      <module name="Problems-Counting_positive_numbers_test" target="11" />
+      <module name="Problems-Job_main" target="11" />
+      <module name="Problems-Job_test" target="11" />
+      <module name="Problems-Max_values_of_integer_types_main" target="11" />
+      <module name="Problems-Max_values_of_integer_types_test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

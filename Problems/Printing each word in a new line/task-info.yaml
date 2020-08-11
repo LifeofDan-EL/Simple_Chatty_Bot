@@ -11,5 +11,16 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4451
-status: Unchecked
+status: Failed
+feedback:
+  message: "Failed test #1 of 4. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\nThis course\nteach you Kotlin\nCorrect output:\n\
+    This\ncourse\nteach\nyou\nKotlin\n\nYour code output:\n\n\nError:\nException in\
+    \ thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1651)\n\
+    \tat MainKt.main(main.kt:9)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:61)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:109)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:119)\n"
+  time: Mon, 10 Aug 2020 02:12:49 UTC
 record: -1

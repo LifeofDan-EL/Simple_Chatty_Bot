@@ -24,6 +24,8 @@
       <module name="Problems-Distance_test" target="11" />
       <module name="Problems-Division_main" target="11" />
       <module name="Problems-Division_test" target="11" />
+      <module name="Problems-Evaluate_an_expression__1__main" target="11" />
+      <module name="Problems-Evaluate_an_expression__1__test" target="11" />
       <module name="Problems-Evaluate_an_expression_main" target="11" />
       <module name="Problems-Evaluate_an_expression_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
@@ -32,6 +34,8 @@
       <module name="Problems-Four_numbers_test" target="11" />
       <module name="Problems-Get_last_digit_main" target="11" />
       <module name="Problems-Get_last_digit_test" target="11" />
+      <module name="Problems-Grades_main" target="11" />
+      <module name="Problems-Grades_test" target="11" />
       <module name="Problems-Job_main" target="11" />
       <module name="Problems-Job_test" target="11" />
       <module name="Problems-Max_values_of_integer_types_main" target="11" />

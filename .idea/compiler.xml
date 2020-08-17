@@ -6,6 +6,8 @@
       <module name="Problems-Are_the_numbers_different__test" target="11" />
       <module name="Problems-Area_of_a_circle_main" target="11" />
       <module name="Problems-Area_of_a_circle_test" target="11" />
+      <module name="Problems-Arithmetic_expression_main" target="11" />
+      <module name="Problems-Arithmetic_expression_test" target="11" />
       <module name="Problems-Between_two_numbers_main" target="11" />
       <module name="Problems-Between_two_numbers_test" target="11" />
       <module name="Problems-Celsius_to_Fahrenheit_main" target="11" />
@@ -22,6 +24,8 @@
       <module name="Problems-Count_the_numbers_test" target="11" />
       <module name="Problems-Counting_positive_numbers_main" target="11" />
       <module name="Problems-Counting_positive_numbers_test" target="11" />
+      <module name="Problems-Date_and_time_formatting_main" target="11" />
+      <module name="Problems-Date_and_time_formatting_test" target="11" />
       <module name="Problems-Difference_between_two_doubles_main" target="11" />
       <module name="Problems-Difference_between_two_doubles_test" target="11" />
       <module name="Problems-Distance_main" target="11" />
@@ -32,6 +36,8 @@
       <module name="Problems-Evaluate_an_expression__1__test" target="11" />
       <module name="Problems-Evaluate_an_expression_main" target="11" />
       <module name="Problems-Evaluate_an_expression_test" target="11" />
+      <module name="Problems-Exabytes_main" target="11" />
+      <module name="Problems-Exabytes_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Find_X_main" target="11" />
@@ -44,30 +50,44 @@
       <module name="Problems-Grades_test" target="11" />
       <module name="Problems-Job_main" target="11" />
       <module name="Problems-Job_test" target="11" />
+      <module name="Problems-LCM_main" target="11" />
+      <module name="Problems-LCM_test" target="11" />
       <module name="Problems-Liquid_pressure_main" target="11" />
       <module name="Problems-Liquid_pressure_test" target="11" />
+      <module name="Problems-Matching_main" target="11" />
+      <module name="Problems-Matching_test" target="11" />
       <module name="Problems-Max_values_of_integer_types_main" target="11" />
       <module name="Problems-Max_values_of_integer_types_test" target="11" />
       <module name="Problems-Maximum_element_divisible_by_4_main" target="11" />
       <module name="Problems-Maximum_element_divisible_by_4_test" target="11" />
+      <module name="Problems-N-th_symbol_main" target="11" />
+      <module name="Problems-N-th_symbol_test" target="11" />
       <module name="Problems-Number_squared_main" target="11" />
       <module name="Problems-Number_squared_test" target="11" />
       <module name="Problems-Odd_or_even_main" target="11" />
       <module name="Problems-Odd_or_even_test" target="11" />
+      <module name="Problems-Percentage_main" target="11" />
+      <module name="Problems-Percentage_test" target="11" />
       <module name="Problems-Playing_with_time_main" target="11" />
       <module name="Problems-Playing_with_time_test" target="11" />
+      <module name="Problems-Print_two_numbers_on_the_same_line_main" target="11" />
+      <module name="Problems-Print_two_numbers_on_the_same_line_test" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
       <module name="Problems-Reversing_a_number_main" target="11" />
       <module name="Problems-Reversing_a_number_test" target="11" />
       <module name="Problems-Right_equation_main" target="11" />
       <module name="Problems-Right_equation_test" target="11" />
+      <module name="Problems-Simple_expression_main" target="11" />
+      <module name="Problems-Simple_expression_test" target="11" />
       <module name="Problems-Size,_min_and_max_main" target="11" />
       <module name="Problems-Size,_min_and_max_test" target="11" />
       <module name="Problems-Strings_as_objects_main" target="11" />
       <module name="Problems-Strings_as_objects_test" target="11" />
       <module name="Problems-The_first_digit_of_a_two-digit_number_main" target="11" />
       <module name="Problems-The_first_digit_of_a_two-digit_number_test" target="11" />
+      <module name="Problems-The_information_about_a_person_main" target="11" />
+      <module name="Problems-The_information_about_a_person_test" target="11" />
       <module name="Problems-The_last_digit_of_a_number_main" target="11" />
       <module name="Problems-The_last_digit_of_a_number_test" target="11" />
       <module name="Problems-The_max_of_two_numbers_without_else-branch_main" target="11" />

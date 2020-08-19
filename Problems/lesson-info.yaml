@@ -59,3 +59,7 @@ content:
 - Handle number format exception
 - The max of three numbers
 - Line length
+- Safe round
+- Elvis throwing exceptions
+- Check length
+- Check length

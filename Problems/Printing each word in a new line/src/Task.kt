@@ -1,18 +1,8 @@
-import java.util.Scanner
+fun main() {
 
-fun main(args: Array<String>) {
-    val scanner = Scanner(System.`in`)
-    // put your code here
+    val word = readLine()!!
 
-    val input1 = scanner.nextLine()
-    val input2 = scanner.nextLine()
-    val input3 = scanner.nextLine()
-    val input4 = scanner.nextLine()
-    val input5 = scanner.nextLine()
+    val birds = word.split(" ")
 
-    println(input1)
-    println(input2)
-    println(input3)
-    println(input4)
-    println(input5)
+    birds.forEach(::println)
 }

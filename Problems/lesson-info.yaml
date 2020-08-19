@@ -52,3 +52,10 @@ content:
 - N-th symbol
 - Arithmetic expression
 - Date and time formatting
+- Digits or not
+- Cause an exception
+- Handle arithmetic exception
+- Handle string exception
+- Handle number format exception
+- The max of three numbers
+- Line length

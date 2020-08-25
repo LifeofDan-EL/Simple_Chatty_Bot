@@ -10,6 +10,8 @@
       <module name="Problems-Arithmetic_expression_test" target="11" />
       <module name="Problems-Between_two_numbers_main" target="11" />
       <module name="Problems-Between_two_numbers_test" target="11" />
+      <module name="Problems-Calculate_volume_main" target="11" />
+      <module name="Problems-Calculate_volume_test" target="11" />
       <module name="Problems-Cause_an_exception_main" target="11" />
       <module name="Problems-Cause_an_exception_test" target="11" />
       <module name="Problems-Celsius_to_Fahrenheit_main" target="11" />
@@ -26,6 +28,8 @@
       <module name="Problems-Compare_Latin_letters_test" target="11" />
       <module name="Problems-Comparing_sums_main" target="11" />
       <module name="Problems-Comparing_sums_test" target="11" />
+      <module name="Problems-Concatenate_3_strings_with_separator_main" target="11" />
+      <module name="Problems-Concatenate_3_strings_with_separator_test" target="11" />
       <module name="Problems-Count_the_numbers_main" target="11" />
       <module name="Problems-Count_the_numbers_test" target="11" />
       <module name="Problems-Counting_positive_numbers_main" target="11" />
@@ -58,6 +62,8 @@
       <module name="Problems-Get_last_digit_test" target="11" />
       <module name="Problems-Grades_main" target="11" />
       <module name="Problems-Grades_test" target="11" />
+      <module name="Problems-Gratuity_main" target="11" />
+      <module name="Problems-Gratuity_test" target="11" />
       <module name="Problems-Handle_arithmetic_exception_main" target="11" />
       <module name="Problems-Handle_arithmetic_exception_test" target="11" />
       <module name="Problems-Handle_number_format_exception_main" target="11" />
@@ -96,12 +102,18 @@
       <module name="Problems-Percentage_test" target="11" />
       <module name="Problems-Playing_with_time_main" target="11" />
       <module name="Problems-Playing_with_time_test" target="11" />
+      <module name="Problems-Polynomial_main" target="11" />
+      <module name="Problems-Polynomial_test" target="11" />
       <module name="Problems-Positive,_Negative_or_Zero_main" target="11" />
       <module name="Problems-Positive,_Negative_or_Zero_test" target="11" />
       <module name="Problems-Print_two_numbers_on_the_same_line_main" target="11" />
       <module name="Problems-Print_two_numbers_on_the_same_line_test" target="11" />
+      <module name="Problems-Print_Username_main" target="11" />
+      <module name="Problems-Print_Username_test" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
+      <module name="Problems-Read_and_print_main" target="11" />
+      <module name="Problems-Read_and_print_test" target="11" />
       <module name="Problems-Reverse_me_if_you_can_main" target="11" />
       <module name="Problems-Reverse_me_if_you_can_test" target="11" />
       <module name="Problems-Reversing_a_number_main" target="11" />
@@ -120,6 +132,8 @@
       <module name="Problems-String_or_Int_test" target="11" />
       <module name="Problems-Strings_as_objects_main" target="11" />
       <module name="Problems-Strings_as_objects_test" target="11" />
+      <module name="Problems-Summation_main" target="11" />
+      <module name="Problems-Summation_test" target="11" />
       <module name="Problems-Swap_elements_main" target="11" />
       <module name="Problems-Swap_elements_test" target="11" />
       <module name="Problems-The_first_digit_of_a_two-digit_number_main" target="11" />

@@ -11,25 +11,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4451
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #1 of 4. Wrong answer
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    This course
-    teach you Kotlin
-    Correct output:
-    This
-    course
-    teach
-    you
-    Kotlin
-
-    Your code output:
-    This
-    course
-  time: Wed, 19 Aug 2020 20:20:42 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4451">JetBrains
+    Academy</a></html>
+  time: Mon, 24 Aug 2020 23:47:30 UTC
 record: -1

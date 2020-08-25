@@ -1,8 +1,7 @@
+import java.util.Scanner
+
 fun main() {
-
-    val word = readLine()!!
-
-    val birds = word.split(" ")
-
-    birds.forEach(::println)
+    val scanner = Scanner(System.`in`)
+    while (scanner.hasNext())
+        println(scanner.next())
 }

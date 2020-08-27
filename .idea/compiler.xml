@@ -12,6 +12,10 @@
       <module name="Problems-Between_two_numbers_test" target="11" />
       <module name="Problems-Calculate_volume_main" target="11" />
       <module name="Problems-Calculate_volume_test" target="11" />
+      <module name="Problems-Car_price_main" target="11" />
+      <module name="Problems-Car_price_test" target="11" />
+      <module name="Problems-Case_insensitive_main" target="11" />
+      <module name="Problems-Case_insensitive_test" target="11" />
       <module name="Problems-Cause_an_exception_main" target="11" />
       <module name="Problems-Cause_an_exception_test" target="11" />
       <module name="Problems-Celsius_to_Fahrenheit_main" target="11" />
@@ -64,12 +68,16 @@
       <module name="Problems-Grades_test" target="11" />
       <module name="Problems-Gratuity_main" target="11" />
       <module name="Problems-Gratuity_test" target="11" />
+      <module name="Problems-Greeting_main" target="11" />
+      <module name="Problems-Greeting_test" target="11" />
       <module name="Problems-Handle_arithmetic_exception_main" target="11" />
       <module name="Problems-Handle_arithmetic_exception_test" target="11" />
       <module name="Problems-Handle_number_format_exception_main" target="11" />
       <module name="Problems-Handle_number_format_exception_test" target="11" />
       <module name="Problems-Handle_string_exception_main" target="11" />
       <module name="Problems-Handle_string_exception_test" target="11" />
+      <module name="Problems-Heron's_formula_main" target="11" />
+      <module name="Problems-Heron's_formula_test" target="11" />
       <module name="Problems-Initializing_an_array_main" target="11" />
       <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
       <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
@@ -82,6 +90,8 @@
       <module name="Problems-Job_test" target="11" />
       <module name="Problems-LCM_main" target="11" />
       <module name="Problems-LCM_test" target="11" />
+      <module name="Problems-Leap_year_main" target="11" />
+      <module name="Problems-Leap_year_test" target="11" />
       <module name="Problems-Line_length_main" target="11" />
       <module name="Problems-Line_length_test" target="11" />
       <module name="Problems-Liquid_pressure_main" target="11" />
@@ -100,6 +110,8 @@
       <module name="Problems-Odd_or_even_test" target="11" />
       <module name="Problems-Percentage_main" target="11" />
       <module name="Problems-Percentage_test" target="11" />
+      <module name="Problems-Perimeter_main" target="11" />
+      <module name="Problems-Perimeter_test" target="11" />
       <module name="Problems-Playing_with_time_main" target="11" />
       <module name="Problems-Playing_with_time_test" target="11" />
       <module name="Problems-Polynomial_main" target="11" />
@@ -112,6 +124,8 @@
       <module name="Problems-Print_Username_test" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
+      <module name="Problems-Quadratic_equation_main" target="11" />
+      <module name="Problems-Quadratic_equation_test" target="11" />
       <module name="Problems-Read_and_print_main" target="11" />
       <module name="Problems-Read_and_print_test" target="11" />
       <module name="Problems-Reverse_me_if_you_can_main" target="11" />
@@ -124,6 +138,8 @@
       <module name="Problems-Safe_round_test" target="11" />
       <module name="Problems-Simple_expression_main" target="11" />
       <module name="Problems-Simple_expression_test" target="11" />
+      <module name="Problems-Sine_and_cosine_main" target="11" />
+      <module name="Problems-Sine_and_cosine_test" target="11" />
       <module name="Problems-Size,_min_and_max_main" target="11" />
       <module name="Problems-Size,_min_and_max_test" target="11" />
       <module name="Problems-String_length_main" target="11" />
@@ -156,6 +172,8 @@
       <module name="Problems-The_sum_of_three_numbers_test" target="11" />
       <module name="Problems-Triangle_main" target="11" />
       <module name="Problems-Triangle_test" target="11" />
+      <module name="Problems-URL_main" target="11" />
+      <module name="Problems-URL_test" target="11" />
       <module name="Problems-Vowel_or_not_main" target="11" />
       <module name="Problems-Vowel_or_not_test" target="11" />
       <module name="Problems-Within_a_range_main" target="11" />

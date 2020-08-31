@@ -40,7 +40,10 @@
             <option value="$PROJECT_DIR$/Problems/Exabytes" />
             <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
             <option value="$PROJECT_DIR$/Problems/Find X" />
+            <option value="$PROJECT_DIR$/Problems/Find the max" />
             <option value="$PROJECT_DIR$/Problems/Four numbers" />
+            <option value="$PROJECT_DIR$/Problems/Fourth root" />
+            <option value="$PROJECT_DIR$/Problems/Fractional part" />
             <option value="$PROJECT_DIR$/Problems/Get last digit" />
             <option value="$PROJECT_DIR$/Problems/Grades" />
             <option value="$PROJECT_DIR$/Problems/Gratuity" />
@@ -53,15 +56,18 @@
             <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems/Is it here?" />
             <option value="$PROJECT_DIR$/Problems/Job" />
             <option value="$PROJECT_DIR$/Problems/LCM" />
             <option value="$PROJECT_DIR$/Problems/Leap year" />
             <option value="$PROJECT_DIR$/Problems/Line length" />
             <option value="$PROJECT_DIR$/Problems/Liquid pressure" />
             <option value="$PROJECT_DIR$/Problems/Matching" />
+            <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
             <option value="$PROJECT_DIR$/Problems/Max values of integer types" />
             <option value="$PROJECT_DIR$/Problems/Maximum element divisible by 4" />
             <option value="$PROJECT_DIR$/Problems/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems/Number dividers" />
             <option value="$PROJECT_DIR$/Problems/Number squared" />
             <option value="$PROJECT_DIR$/Problems/Odd or even" />
             <option value="$PROJECT_DIR$/Problems/Percentage" />
@@ -69,6 +75,7 @@
             <option value="$PROJECT_DIR$/Problems/Playing with time" />
             <option value="$PROJECT_DIR$/Problems/Polynomial" />
             <option value="$PROJECT_DIR$/Problems/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Problems/Pow" />
             <option value="$PROJECT_DIR$/Problems/Print Username" />
             <option value="$PROJECT_DIR$/Problems/Print two numbers on the same line" />
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
@@ -86,6 +93,7 @@
             <option value="$PROJECT_DIR$/Problems/Strings as objects" />
             <option value="$PROJECT_DIR$/Problems/Summation" />
             <option value="$PROJECT_DIR$/Problems/Swap elements" />
+            <option value="$PROJECT_DIR$/Problems/The angle between vectors" />
             <option value="$PROJECT_DIR$/Problems/The first digit of a two-digit number" />
             <option value="$PROJECT_DIR$/Problems/The information about a person" />
             <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
@@ -96,6 +104,7 @@
             <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The sum of three numbers" />
             <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
             <option value="$PROJECT_DIR$/Problems/URL" />
             <option value="$PROJECT_DIR$/Problems/Vowel or not" />
             <option value="$PROJECT_DIR$/Problems/Within a range" />

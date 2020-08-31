@@ -10,7 +10,18 @@ files:
 feedback_link: https://hyperskill.org/learn/step/8543
 status: Solved
 feedback:
-  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8543">JetBrains
-    Academy</a></html>
-  time: Thu, 27 Aug 2020 21:05:16 UTC
+  message: |
+    Failed test #1 of 4. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Hello
+    hello
+    Correct output:
+    true
+
+    Your code output:
+    false
+  time: Thu, 27 Aug 2020 01:27:51 UTC
 record: -1

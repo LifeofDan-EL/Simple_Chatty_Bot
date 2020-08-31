@@ -58,10 +58,16 @@
       <module name="Problems-Exabytes_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
+      <module name="Problems-Find_the_max_main" target="11" />
+      <module name="Problems-Find_the_max_test" target="11" />
       <module name="Problems-Find_X_main" target="11" />
       <module name="Problems-Find_X_test" target="11" />
       <module name="Problems-Four_numbers_main" target="11" />
       <module name="Problems-Four_numbers_test" target="11" />
+      <module name="Problems-Fourth_root_main" target="11" />
+      <module name="Problems-Fourth_root_test" target="11" />
+      <module name="Problems-Fractional_part_main" target="11" />
+      <module name="Problems-Fractional_part_test" target="11" />
       <module name="Problems-Get_last_digit_main" target="11" />
       <module name="Problems-Get_last_digit_test" target="11" />
       <module name="Problems-Grades_main" target="11" />
@@ -86,6 +92,8 @@
       <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
       <module name="Problems-Initializing_an_array_test" target="11" />
+      <module name="Problems-Is_it_here__main" target="11" />
+      <module name="Problems-Is_it_here__test" target="11" />
       <module name="Problems-Job_main" target="11" />
       <module name="Problems-Job_test" target="11" />
       <module name="Problems-LCM_main" target="11" />
@@ -98,12 +106,16 @@
       <module name="Problems-Liquid_pressure_test" target="11" />
       <module name="Problems-Matching_main" target="11" />
       <module name="Problems-Matching_test" target="11" />
+      <module name="Problems-Max_of_four_numbers_main" target="11" />
+      <module name="Problems-Max_of_four_numbers_test" target="11" />
       <module name="Problems-Max_values_of_integer_types_main" target="11" />
       <module name="Problems-Max_values_of_integer_types_test" target="11" />
       <module name="Problems-Maximum_element_divisible_by_4_main" target="11" />
       <module name="Problems-Maximum_element_divisible_by_4_test" target="11" />
       <module name="Problems-N-th_symbol_main" target="11" />
       <module name="Problems-N-th_symbol_test" target="11" />
+      <module name="Problems-Number_dividers_main" target="11" />
+      <module name="Problems-Number_dividers_test" target="11" />
       <module name="Problems-Number_squared_main" target="11" />
       <module name="Problems-Number_squared_test" target="11" />
       <module name="Problems-Odd_or_even_main" target="11" />
@@ -118,6 +130,8 @@
       <module name="Problems-Polynomial_test" target="11" />
       <module name="Problems-Positive,_Negative_or_Zero_main" target="11" />
       <module name="Problems-Positive,_Negative_or_Zero_test" target="11" />
+      <module name="Problems-Pow_main" target="11" />
+      <module name="Problems-Pow_test" target="11" />
       <module name="Problems-Print_two_numbers_on_the_same_line_main" target="11" />
       <module name="Problems-Print_two_numbers_on_the_same_line_test" target="11" />
       <module name="Problems-Print_Username_main" target="11" />
@@ -152,6 +166,8 @@
       <module name="Problems-Summation_test" target="11" />
       <module name="Problems-Swap_elements_main" target="11" />
       <module name="Problems-Swap_elements_test" target="11" />
+      <module name="Problems-The_angle_between_vectors_main" target="11" />
+      <module name="Problems-The_angle_between_vectors_test" target="11" />
       <module name="Problems-The_first_digit_of_a_two-digit_number_main" target="11" />
       <module name="Problems-The_first_digit_of_a_two-digit_number_test" target="11" />
       <module name="Problems-The_information_about_a_person_main" target="11" />
@@ -172,6 +188,8 @@
       <module name="Problems-The_sum_of_three_numbers_test" target="11" />
       <module name="Problems-Triangle_main" target="11" />
       <module name="Problems-Triangle_test" target="11" />
+      <module name="Problems-Triples_main" target="11" />
+      <module name="Problems-Triples_test" target="11" />
       <module name="Problems-URL_main" target="11" />
       <module name="Problems-URL_test" target="11" />
       <module name="Problems-Vowel_or_not_main" target="11" />

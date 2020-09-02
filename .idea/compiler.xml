@@ -74,6 +74,8 @@
       <module name="Problems-Fourth_root_test" target="11" />
       <module name="Problems-Fractional_part_main" target="11" />
       <module name="Problems-Fractional_part_test" target="11" />
+      <module name="Problems-FTN-Numbers_main" target="11" />
+      <module name="Problems-FTN-Numbers_test" target="11" />
       <module name="Problems-Get_last_digit_main" target="11" />
       <module name="Problems-Get_last_digit_test" target="11" />
       <module name="Problems-Grades_main" target="11" />
@@ -88,6 +90,8 @@
       <module name="Problems-Handle_number_format_exception_test" target="11" />
       <module name="Problems-Handle_string_exception_main" target="11" />
       <module name="Problems-Handle_string_exception_test" target="11" />
+      <module name="Problems-Harry_Potter_main" target="11" />
+      <module name="Problems-Harry_Potter_test" target="11" />
       <module name="Problems-Heron's_formula_main" target="11" />
       <module name="Problems-Heron's_formula_test" target="11" />
       <module name="Problems-Individual_taxes_main" target="11" />
@@ -162,6 +166,8 @@
       <module name="Problems-Right_equation_test" target="11" />
       <module name="Problems-Safe_round_main" target="11" />
       <module name="Problems-Safe_round_test" target="11" />
+      <module name="Problems-Shape_main" target="11" />
+      <module name="Problems-Shape_test" target="11" />
       <module name="Problems-Simple_expression_main" target="11" />
       <module name="Problems-Simple_expression_test" target="11" />
       <module name="Problems-Sine_and_cosine_main" target="11" />
@@ -180,6 +186,8 @@
       <module name="Problems-Swap_elements_test" target="11" />
       <module name="Problems-The_angle_between_vectors_main" target="11" />
       <module name="Problems-The_angle_between_vectors_test" target="11" />
+      <module name="Problems-The_army_of_units_main" target="11" />
+      <module name="Problems-The_army_of_units_test" target="11" />
       <module name="Problems-The_first_digit_of_a_two-digit_number_main" target="11" />
       <module name="Problems-The_first_digit_of_a_two-digit_number_test" target="11" />
       <module name="Problems-The_information_about_a_person_main" target="11" />
@@ -190,6 +198,8 @@
       <module name="Problems-The_max_of_three_numbers_test" target="11" />
       <module name="Problems-The_max_of_two_numbers_without_else-branch_main" target="11" />
       <module name="Problems-The_max_of_two_numbers_without_else-branch_test" target="11" />
+      <module name="Problems-The_number_of_digits_main" target="11" />
+      <module name="Problems-The_number_of_digits_test" target="11" />
       <module name="Problems-The_sum_of_digits_main" target="11" />
       <module name="Problems-The_sum_of_digits_test" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />

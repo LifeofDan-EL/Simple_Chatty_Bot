@@ -1,11 +1,12 @@
-import java.util.*
 
 fun main() {
-    val scanner = Scanner(System.`in`)
-    val num = scanner.nextInt()
-    val input = num.toString()
-    val firstHalf = ""
-    val i = 0
+    val num = readLine()!!
+    val str = num.toString()
+    val n = str.length
+    val numbers = str.map { it.toString().toInt() }
 
-        println(input.length)
+    val num1 = numbers.slice(0..n / 2 - 1)
+    val num2 = numbers.slice(n / 2..n - 1)
+
+    if (num1.sum() == num2.sum()) println("YES") else println("NO")
 }

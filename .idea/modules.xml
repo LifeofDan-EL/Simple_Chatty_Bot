@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" group="Simple_Chatty_Bot/Problems-A_simple_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" group="Simple_Chatty_Bot/Problems-A_simple_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" group="Simple_Chatty_Bot/Problems-A_simple_calculator" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Are the numbers different?/Problems-Are_the_numbers_different_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Are the numbers different?/Problems-Are_the_numbers_different_.iml" group="Simple_Chatty_Bot/Problems-Are_the_numbers_different_" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Are the numbers different?/Problems-Are_the_numbers_different__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Are the numbers different?/Problems-Are_the_numbers_different__main.iml" group="Simple_Chatty_Bot/Problems-Are_the_numbers_different_" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Are the numbers different?/Problems-Are_the_numbers_different__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Are the numbers different?/Problems-Are_the_numbers_different__test.iml" group="Simple_Chatty_Bot/Problems-Are_the_numbers_different_" />

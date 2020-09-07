@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-A_simple_calculator_main" target="11" />
+      <module name="Problems-A_simple_calculator_test" target="11" />
       <module name="Problems-Are_the_numbers_different__main" target="11" />
       <module name="Problems-Are_the_numbers_different__test" target="11" />
       <module name="Problems-Area_of_a_circle_main" target="11" />

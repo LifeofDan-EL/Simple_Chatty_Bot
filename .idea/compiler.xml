@@ -174,6 +174,8 @@
       <module name="Problems-Sine_and_cosine_test" target="11" />
       <module name="Problems-Size,_min_and_max_main" target="11" />
       <module name="Problems-Size,_min_and_max_test" target="11" />
+      <module name="Problems-Size_of_parts_main" target="11" />
+      <module name="Problems-Size_of_parts_test" target="11" />
       <module name="Problems-String_length_main" target="11" />
       <module name="Problems-String_length_test" target="11" />
       <module name="Problems-String_or_Int_main" target="11" />

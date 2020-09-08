@@ -31,6 +31,7 @@
             <option value="$PROJECT_DIR$/Problems/Comparing sums" />
             <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
             <option value="$PROJECT_DIR$/Problems/Convert a date" />
+            <option value="$PROJECT_DIR$/Problems/Converter to Double" />
             <option value="$PROJECT_DIR$/Problems/Count the numbers" />
             <option value="$PROJECT_DIR$/Problems/Counting positive numbers" />
             <option value="$PROJECT_DIR$/Problems/Date and time formatting" />
@@ -43,6 +44,7 @@
             <option value="$PROJECT_DIR$/Problems/Evaluate an expression (1)" />
             <option value="$PROJECT_DIR$/Problems/Exabytes" />
             <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Problems/Exception message" />
             <option value="$PROJECT_DIR$/Problems/FTN-Numbers" />
             <option value="$PROJECT_DIR$/Problems/Find X" />
             <option value="$PROJECT_DIR$/Problems/Find the max" />
@@ -56,6 +58,7 @@
             <option value="$PROJECT_DIR$/Problems/Handle arithmetic exception" />
             <option value="$PROJECT_DIR$/Problems/Handle number format exception" />
             <option value="$PROJECT_DIR$/Problems/Handle string exception" />
+            <option value="$PROJECT_DIR$/Problems/Handling strings" />
             <option value="$PROJECT_DIR$/Problems/Harry Potter" />
             <option value="$PROJECT_DIR$/Problems/Heron's formula" />
             <option value="$PROJECT_DIR$/Problems/Individual taxes" />
@@ -63,6 +66,7 @@
             <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems/Integer division" />
             <option value="$PROJECT_DIR$/Problems/Is it here?" />
             <option value="$PROJECT_DIR$/Problems/Job" />
             <option value="$PROJECT_DIR$/Problems/Just checking" />

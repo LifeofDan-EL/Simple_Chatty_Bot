@@ -42,6 +42,8 @@
       <module name="Problems-Concatenate_3_strings_with_separator_test" target="11" />
       <module name="Problems-Convert_a_date_main" target="11" />
       <module name="Problems-Convert_a_date_test" target="11" />
+      <module name="Problems-Converter_to_Double_main" target="11" />
+      <module name="Problems-Converter_to_Double_test" target="11" />
       <module name="Problems-Count_the_numbers_main" target="11" />
       <module name="Problems-Count_the_numbers_test" target="11" />
       <module name="Problems-Counting_positive_numbers_main" target="11" />
@@ -66,6 +68,8 @@
       <module name="Problems-Exabytes_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
+      <module name="Problems-Exception_message_main" target="11" />
+      <module name="Problems-Exception_message_test" target="11" />
       <module name="Problems-Find_the_max_main" target="11" />
       <module name="Problems-Find_the_max_test" target="11" />
       <module name="Problems-Find_X_main" target="11" />
@@ -92,6 +96,8 @@
       <module name="Problems-Handle_number_format_exception_test" target="11" />
       <module name="Problems-Handle_string_exception_main" target="11" />
       <module name="Problems-Handle_string_exception_test" target="11" />
+      <module name="Problems-Handling_strings_main" target="11" />
+      <module name="Problems-Handling_strings_test" target="11" />
       <module name="Problems-Harry_Potter_main" target="11" />
       <module name="Problems-Harry_Potter_test" target="11" />
       <module name="Problems-Heron's_formula_main" target="11" />
@@ -106,6 +112,8 @@
       <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
       <module name="Problems-Initializing_an_array_test" target="11" />
+      <module name="Problems-Integer_division_main" target="11" />
+      <module name="Problems-Integer_division_test" target="11" />
       <module name="Problems-Is_it_here__main" target="11" />
       <module name="Problems-Is_it_here__test" target="11" />
       <module name="Problems-Job_main" target="11" />

@@ -118,6 +118,8 @@
       <module name="Problems-Is_it_here__test" target="11" />
       <module name="Problems-Job_main" target="11" />
       <module name="Problems-Job_test" target="11" />
+      <module name="Problems-Just_checking__1__main" target="11" />
+      <module name="Problems-Just_checking__1__test" target="11" />
       <module name="Problems-Just_checking_main" target="11" />
       <module name="Problems-Just_checking_test" target="11" />
       <module name="Problems-LCM_main" target="11" />

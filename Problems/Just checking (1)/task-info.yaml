@@ -1,0 +1,23 @@
+type: code
+custom_name: Just checking
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    import java.util.*
+
+    fun main(args: Array<String>) {
+        val scanner = Scanner(System.`in`)
+
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4602
+status: Unchecked
+feedback:
+  message: |-
+    Connection to server was interrupted
+
+    timeout
+  time: Wed, 09 Sep 2020 21:30:39 UTC
+record: -1

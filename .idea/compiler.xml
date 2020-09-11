@@ -102,6 +102,8 @@
       <module name="Problems-Harry_Potter_test" target="11" />
       <module name="Problems-Heron's_formula_main" target="11" />
       <module name="Problems-Heron's_formula_test" target="11" />
+      <module name="Problems-How_many_nuts_will_be_left_after_division_main" target="11" />
+      <module name="Problems-How_many_nuts_will_be_left_after_division_test" target="11" />
       <module name="Problems-Individual_taxes_main" target="11" />
       <module name="Problems-Individual_taxes_test" target="11" />
       <module name="Problems-Initializing_an_array_main" target="11" />
@@ -214,6 +216,8 @@
       <module name="Problems-The_max_of_two_numbers_without_else-branch_test" target="11" />
       <module name="Problems-The_number_of_digits_main" target="11" />
       <module name="Problems-The_number_of_digits_test" target="11" />
+      <module name="Problems-The_number_of_tens_main" target="11" />
+      <module name="Problems-The_number_of_tens_test" target="11" />
       <module name="Problems-The_sum_of_digits_main" target="11" />
       <module name="Problems-The_sum_of_digits_test" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />

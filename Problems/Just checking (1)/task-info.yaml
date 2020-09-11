@@ -13,7 +13,7 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4602
-status: Unchecked
+status: Solved
 feedback:
   message: |-
     Connection to server was interrupted

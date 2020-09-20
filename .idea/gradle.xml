@@ -33,7 +33,9 @@
             <option value="$PROJECT_DIR$/Problems/Convert a date" />
             <option value="$PROJECT_DIR$/Problems/Converter to Double" />
             <option value="$PROJECT_DIR$/Problems/Count the numbers" />
+            <option value="$PROJECT_DIR$/Problems/Counting" />
             <option value="$PROJECT_DIR$/Problems/Counting positive numbers" />
+            <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
             <option value="$PROJECT_DIR$/Problems/Date and time formatting" />
             <option value="$PROJECT_DIR$/Problems/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Problems/Digits or not" />
@@ -100,6 +102,7 @@
             <option value="$PROJECT_DIR$/Problems/Read and print" />
             <option value="$PROJECT_DIR$/Problems/Reverse me if you can" />
             <option value="$PROJECT_DIR$/Problems/Reversing a number" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
             <option value="$PROJECT_DIR$/Problems/Right equation" />
             <option value="$PROJECT_DIR$/Problems/Safe round" />
             <option value="$PROJECT_DIR$/Problems/Shape" />
@@ -107,6 +110,7 @@
             <option value="$PROJECT_DIR$/Problems/Sine and cosine" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
             <option value="$PROJECT_DIR$/Problems/Size, min and max" />
+            <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
             <option value="$PROJECT_DIR$/Problems/String length" />
             <option value="$PROJECT_DIR$/Problems/String or Int" />
             <option value="$PROJECT_DIR$/Problems/String processor" />
@@ -117,13 +121,16 @@
             <option value="$PROJECT_DIR$/Problems/The army of units" />
             <option value="$PROJECT_DIR$/Problems/The first digit of a two-digit number" />
             <option value="$PROJECT_DIR$/Problems/The information about a person" />
+            <option value="$PROJECT_DIR$/Problems/The largest element" />
             <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Problems/The length of the sequence" />
             <option value="$PROJECT_DIR$/Problems/The max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/The max of two numbers without else-branch" />
             <option value="$PROJECT_DIR$/Problems/The number of digits" />
             <option value="$PROJECT_DIR$/Problems/The number of tens" />
             <option value="$PROJECT_DIR$/Problems/The sum of N numbers" />
             <option value="$PROJECT_DIR$/Problems/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems/The sum of elements" />
             <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The sum of three numbers" />
             <option value="$PROJECT_DIR$/Problems/Triangle" />

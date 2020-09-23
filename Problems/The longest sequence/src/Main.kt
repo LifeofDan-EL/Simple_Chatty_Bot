@@ -1,18 +1,18 @@
 import java.util.*
 
 fun main(args: Array<String>) {
-//    val scanner = Scanner(System.`in`)
-//    val arr = IntArray(scanner.nextInt()) { scanner.nextInt() }
-//
-//    for (i in arr) {
-//        print("$i ")
-//    }
-    for (i in 1..4) {
-        loop@ for (j in 1..3) {
-            for (k in 1..2) {
-                if (i == 2 || j == 3 || k == 2) break@loop
-                print("$k")
-            }
-        }
-    }
+    val regex = Regex(".ea..")
+
+    val string1 = "teach"
+    val string2 = "learning"
+    val string3 = ".ea.."
+    val string4 = "learning"
+    val string5 = "....."
+
+    println(string1.matches(regex))
+    println(string2.matches(regex))
+    println(string3.matches(regex))
+    println(string4.matches(regex))
+    println(string5.matches(regex))
+
 }

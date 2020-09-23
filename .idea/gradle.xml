@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/Problems/Are the numbers different?" />
             <option value="$PROJECT_DIR$/Problems/Area of a circle" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Problems/Backslash problem" />
             <option value="$PROJECT_DIR$/Problems/Between two numbers" />
             <option value="$PROJECT_DIR$/Problems/Beyond the word" />
             <option value="$PROJECT_DIR$/Problems/Calculate volume" />
@@ -40,10 +41,12 @@
             <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
             <option value="$PROJECT_DIR$/Problems/Date and time formatting" />
             <option value="$PROJECT_DIR$/Problems/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Problems/Different colo(u)rs" />
             <option value="$PROJECT_DIR$/Problems/Digits or not" />
             <option value="$PROJECT_DIR$/Problems/Distance" />
             <option value="$PROJECT_DIR$/Problems/Division" />
             <option value="$PROJECT_DIR$/Problems/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Escapism" />
             <option value="$PROJECT_DIR$/Problems/Evaluate an expression" />
             <option value="$PROJECT_DIR$/Problems/Evaluate an expression (1)" />
             <option value="$PROJECT_DIR$/Problems/Exabytes" />
@@ -67,6 +70,7 @@
             <option value="$PROJECT_DIR$/Problems/Handle string exception" />
             <option value="$PROJECT_DIR$/Problems/Handling strings" />
             <option value="$PROJECT_DIR$/Problems/Harry Potter" />
+            <option value="$PROJECT_DIR$/Problems/Help the teacher" />
             <option value="$PROJECT_DIR$/Problems/Heron's formula" />
             <option value="$PROJECT_DIR$/Problems/How many nuts will be left after division" />
             <option value="$PROJECT_DIR$/Problems/Individual taxes" />
@@ -79,6 +83,7 @@
             <option value="$PROJECT_DIR$/Problems/Job" />
             <option value="$PROJECT_DIR$/Problems/Just checking" />
             <option value="$PROJECT_DIR$/Problems/Just checking (1)" />
+            <option value="$PROJECT_DIR$/Problems/Kotlin code" />
             <option value="$PROJECT_DIR$/Problems/LCM" />
             <option value="$PROJECT_DIR$/Problems/Leap year" />
             <option value="$PROJECT_DIR$/Problems/Line length" />
